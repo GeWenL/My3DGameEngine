@@ -1,0 +1,67 @@
+
+Opening Error Output File (ERROR.TXT) on Fri Mar  8 13:34:11.799, 2019
+
+Object Descriptor: tri 8 12   
+
+Object average radius = 8.660254, max radius = 8.660254
+Polygon 0:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [2, 1, 0]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 1:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [3, 2, 0]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 2:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [4, 7, 0]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 3:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [7, 3, 0]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 4:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [6, 7, 4]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 5:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [5, 6, 4]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 6:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [2, 6, 1]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 7:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [6, 5, 1]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 8:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [7, 6, 3]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 9:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [6, 2, 3]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 10:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [5, 4, 0]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 11:
+Surface Desc = 0xc0f0, num_verts = 3, vert_indices [1, 5, 0]
+1 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Closing Error Output File.
